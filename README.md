@@ -1,19 +1,23 @@
-LAB - Class xx
-Project: Project Name Here
-Author: Student/Group Name
-Links and Resources
-back-end server url (when applicable)
-front-end application (when applicable)
-Setup
-.env requirements (where applicable)
-i.e.
+LAB - Class 03 
 
-PORT - Port Number
-DATABASE_URL - URL to the running Postgres instance/db
-How to initialize/run your application (where applicable)
-e.g. python main.py
-How to use your library (where applicable)
-Tests
+Project: madlib-cli
+
+Author: Myyela Isaac
+
+Resources:
+
+TA Kjell, TA Tammy, Instructor JB, ChatGpt, Google, and peers
+
+How to initialize your application? 
+
+python madlib.py
+
 How do you run tests?
-Any tests of note?
-Describe any tests that you did not complete, skipped, etc
+pytest
+
+Test: 
+
+Read Template
+Parse Template
+Merge 
+Raise Exception
